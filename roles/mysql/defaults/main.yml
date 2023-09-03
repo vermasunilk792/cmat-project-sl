@@ -1,0 +1,6 @@
+---
+# Defaults file for MySQL Role
+
+wp_mysql_db: wp_data
+wp_mysql_user: wp_user
+wp_mysql_password: mysqlroot@123456
