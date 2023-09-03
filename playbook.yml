@@ -7,6 +7,3 @@
     - mysql
     - php
     - wordpress
-  tasks:
-    - name: install tree
-      apt: name=tree state=present 
